@@ -16,9 +16,7 @@ prompt imagem via Leonardo IA: Crie uma imagem de uma familia na praia com pai m
 
 ## 🚀 Resultados
 
-crie um e-book para adultos sobre educação financeira utilizando uma linguagem divertida e um texto enxuto. crie também um título e divida os assuntos por capítulo.
-O ChatGPT disse:
-ChatGPT
+
 Título: "Grana no Bolso: Descomplicando a Educação Financeira com Humor e Praticidade"
 
 Introdução: Ei, você! Já parou para pensar que entender de dinheiro pode ser divertido? Não, não é piada! Este e-book foi feito para mostrar que aprender a cuidar das finanças não precisa ser chato ou complicado. Vamos explorar conceitos de forma simples, com uma boa dose de humor e sem aquele monte de jargão de economista. Pronto para deixar sua vida financeira mais leve e organizada? Então, vamos nessa!
